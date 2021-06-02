@@ -1,13 +1,16 @@
+/*sets box-sizing, padding, and margin of all elements*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*changes body background-color*/
 body {
     background-color: #d9dcd6;
 }
 
+/*changes header, header h1, and header sections properties*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,15 +44,18 @@ header section ul li {
     margin-left: 25px;
 }
 
+/*sets color and text-decoration of <a> tags*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*sets font-size of <p> tags*/
 p {
     font-size: 16px;
 }
 
+/*changes display of figure/background image*/
 figure {
     height: 800px;
     width: 100%;
@@ -59,6 +65,7 @@ figure {
     background-position: center;
 }
 
+/*provides left and right float styling*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,6 +76,7 @@ figure {
     margin-left: 25px;
 }
 
+/*changes article, article h2, article img, and article sections properties*/
 article {
     width: 75%;
     display: inline-block;
@@ -93,6 +101,7 @@ article section {
     color: #ffffff;
 }
 
+/*changes aside, aside section, aside h3, and aside img properties*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -120,6 +129,7 @@ aside img {
     max-width: 150px;
 }
 
+/*changes footer and footer h2 properties*/
 footer {
     padding: 30px;
     clear: both;
