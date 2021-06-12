@@ -19,4 +19,4 @@ Screenshots:
 ![screenshot of upper part of Horiseon webpage](./assets/images/screenshot1.png)
 ![screenshot of lower part of Horiseon webpage](./assets/images/screenshot2.png)
 
-Link: https://ronarceo.github.io/01-Homework/
+Link: https://ronarceo.github.io/Code-Refactor/
